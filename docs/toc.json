@@ -100,7 +100,7 @@
       ["Overview", "/docs/copilot/overview"],
       ["Setup", "/docs/copilot/setup"],
       ["Quickstart", "/docs/copilot/getting-started"],
-      ["Best Practices", "/docs/copilot/copilot-tips-and-tricks"],
+      ["Best Practices", "/docs/copilot/best-practices"],
       ["", "", {
         "name": "Agents",
         "area": "copilot/agents",
@@ -338,6 +338,7 @@
       ["Build with CMake", "/docs/cpp/build-with-cmake"],
       ["CMake Tools on Linux", "/docs/cpp/cmake-linux"],
       ["CMake Quick Start", "/docs/cpp/cmake-quickstart"],
+      ["C++ Dev Tools for Copilot", "/docs/cpp/cpp-devtools"],
       ["Editing and Navigating", "/docs/cpp/cpp-ide"],
       ["Debugging", "/docs/cpp/cpp-debug"],
       ["Configure Debugging", "/docs/cpp/launch-json-reference"],
